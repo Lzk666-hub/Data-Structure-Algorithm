@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/12077/CLionProjects/281P1/p1.cpp
+iostream
+-
+sort.hpp
+C:/Users/12077/CLionProjects/281P1/sort.hpp
+vector
+-
+algorithm
+-
+
+C:/Users/12077/CLionProjects/281P1/sort.hpp
+vector
+-
+cstdlib
+-
+functional
+-
+
