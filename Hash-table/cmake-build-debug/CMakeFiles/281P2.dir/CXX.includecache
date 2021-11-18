@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/12077/CLionProjects/281P2/hash_prime.hpp
+utility
+-
+
+C:/Users/12077/CLionProjects/281P2/hashtable.hpp
+hash_prime.hpp
+C:/Users/12077/CLionProjects/281P2/hash_prime.hpp
+exception
+-
+functional
+-
+vector
+-
+forward_list
+-
+iostream
+-
+
+C:/Users/12077/CLionProjects/281P2/p2.cpp
+hashtable.hpp
+C:/Users/12077/CLionProjects/281P2/hashtable.hpp
+iostream
+-
+
